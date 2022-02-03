@@ -1,0 +1,13 @@
+Željene .mp3 pjesme stavite u mapu songs.
+
+
+Naziv datoteke mora biti oblikovan na sljedeæi naèin:
+
+'izvoðaè' - 'naziv'.mp3  (èæžšð su podržani)
+
+Ukoliko ilegalno skidate pjesme s web-stranice https://my-free-mp3.net/, ne morate micati tag www.my-free-mp3.
+
+
+Play - nasumièan odabir i instantno izvoðenje pjesme
+Pause - pauziranje/odpauziranje pjesme
+Repeat - ponovno pokretanje pjesme
